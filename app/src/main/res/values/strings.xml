@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">VibeCity</string>
+
+    <!-- Login Activity -->
+    <string name="login_title">Enter your code from Telegram</string>
+    <string name="login_hint">Verification code</string>
+    <string name="login_button">Login</string>
+
+    <!-- Events -->
+    <string name="events_search_hint">Search events...</string>
+
+    <!-- Profile -->
+    <string name="profile_interests_label">Interests:</string>
+    <string name="edit_profile_button">Edit Profile</string>
+    <string name="logout_button">Logout</string>
+
+    <!-- Profile Edit -->
+    <string name="edit_username_hint">Username</string>
+    <string name="edit_interests_label">Select your interests</string>
+    <string name="save_profile_button">Save Changes</string>
+</resources>
