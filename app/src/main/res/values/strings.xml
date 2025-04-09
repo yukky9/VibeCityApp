@@ -18,4 +18,7 @@
     <string name="edit_username_hint">Username</string>
     <string name="edit_interests_label">Select your interests</string>
     <string name="save_profile_button">Save Changes</string>
+    <string name="favorites_title">Favorites</string>
+    <string name="no_favorites_text">You don\'t have any favorites yet</string>
+    <string name="explore_events">Explore Events</string>
 </resources>

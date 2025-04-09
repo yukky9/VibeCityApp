@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <!-- Основные цвета -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- Текстовые цвета -->
+    <color name="primary_text_color">#212121</color>
+    <color name="secondary_text_color">#757575</color>
+    <color name="hint_text_color">#BDBDBD</color>
+
+    <!-- Фоновые цвета -->
+    <color name="background_color">#FAFAFA</color>
+    <color name="surface_color">#FFFFFF</color>
+    <color name="error_color">#B00020</color>
+
+    <!-- Для темной темы (values-night/colors.xml) -->
+    <color name="primary_text_color_dark">#FFFFFF</color>
+    <color name="secondary_text_color_dark">#BDBDBD</color>
+    <color name="background_color_dark">#121212</color>
+    <color name="surface_color_dark">#1E1E1E</color>
 </resources>

@@ -28,6 +28,8 @@ public class MainActivity extends AppCompatActivity {
 
                 if (item.getItemId() == R.id.nav_events) {
                     selectedFragment = new EventsFragment();
+                }else if (item.getItemId() == R.id.nav_favorites) {
+                    selectedFragment = new FavoritesFragment();
                 } else if (item.getItemId() == R.id.nav_map) {
                     selectedFragment = new MapFragment();
                 } else if (item.getItemId() == R.id.nav_profile) {
