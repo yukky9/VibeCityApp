@@ -19,17 +19,14 @@
         <meta-data
             android:name="com.yandex.mapkit.apikey"
             android:value="a44af384-c275-4d80-8b42-909f5d87077b" />
-
-        <activity
-            android:name=".MainActivity"
+        <activity android:name=".CodeInputActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <activity android:name=".LoginActivity" />
+        <activity android:name=".MainActivity"/>
         <activity android:name=".EventDetailActivity" />
         <activity android:name=".ProfileEditActivity" />
     </application>

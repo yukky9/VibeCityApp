@@ -21,4 +21,8 @@
     <string name="favorites_title">Favorites</string>
     <string name="no_favorites_text">You don\'t have any favorites yet</string>
     <string name="explore_events">Explore Events</string>
+    <string name="code_instruction">Введите код подтверждения, полученный в Telegram боте</string>
+    <string name="code_hint">6-значный код</string>
+    <string name="verify_button">Проверить код</string>
+    <string name="get_code_button">Получить код в Telegram</string>
 </resources>

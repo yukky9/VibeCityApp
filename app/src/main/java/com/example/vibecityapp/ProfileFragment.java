@@ -42,7 +42,7 @@ public class ProfileFragment extends Fragment {
 
         logoutButton.setOnClickListener(v -> {
             ((VibeCityApp) requireActivity().getApplication()).setAuthToken(null);
-            startActivity(new Intent(getActivity(), LoginActivity.class));
+            startActivity(new Intent(getActivity(), CodeInputActivity.class));
             requireActivity().finish();
         });
 
